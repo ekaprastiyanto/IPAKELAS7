@@ -1,0 +1,1 @@
+﻿var textForPages = ["","","PERHATIKAN VIDEO BERIKUT","TUJUAN                                                                                                                                                                                   PEMBELAJARAN","","","","","","","","","","","","","","","","Perhatikan Video Berikut","","","","","","","",""];
